@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @renzsupnet
 - 👀 I’m interested in a programming job/ games
-- 🌱 I’m currently learning Data Engineering, Cloud Development
+- 🌱 I’m currently learning Data Engineering, Cloud Development @ Udacity
+- :technologist: I have a Bachelor of Science Degree in Information Technology
+- :nerd_face: Graduated as Magna cum laude from the University of the Cordilleras, Baguio City, Philippines
 
 
 <!---
